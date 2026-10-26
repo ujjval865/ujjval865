@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ujjval865/ujjval865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Ujjval Gahlout
+### Frontend Developer | React.js | Tailwind CSS | GSAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+## 🚀 Professional Projects
+
+My best projects showcasing my frontend development skills.
+
+- [Savora](https://github.com/ujjval865/Savora)
+
+## 📚 Beginner & Practice Projects
+
+Projects built while learning and practicing frontend development.
+
+- [GitHub-Learning](https://github.com/ujjval865/GitHub-Learning)
+- [Project_01](https://github.com/ujjval865/Project_01)
+- [Business_Card](https://github.com/ujjval865/Business_Card)
+- [Modal_Popup](https://github.com/ujjval865/Modal_Popup)
+- [SkyNet](https://github.com/ujjval865/SkyNet)
+- [Landing_Page](https://github.com/ujjval865/Landing_Page)
+
+## 🛠️ Skills
+
+HTML | CSS | JavaScript | React.js | Tailwind CSS | GSAP
+
